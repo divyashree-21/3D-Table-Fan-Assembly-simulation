@@ -19,12 +19,7 @@ To get started quickly, follow the steps below:
    ```bash
    <command_to_run_simulation>
    ```
-
-## Screenshots
-![Fan Assembly Overview](path/to/screenshot1.png)  
-![Simulation in Action](path/to/screenshot2.png)  
-*More screenshots showcasing various features of the simulation.*
-
+   
 ## Features Comparison Table
 | Feature                | Feature 1 | Feature 2 | Feature 3 |
 |------------------------|-----------|-----------|-----------|
