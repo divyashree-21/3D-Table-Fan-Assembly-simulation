@@ -64,7 +64,7 @@ A: Yes! Contributions are welcome. Please see the CONTRIBUTING.md file for guide
 For any issues, please contact:
 - Name: Divyashree  
 - GitHub: [divyashree-21](https://github.com/divyashree-21)  
-- Email: [your.email@example.com](mailto:your.email@example.com)  
+- Email: [divyashree200621@gmail.com](mailto:your.email@example.com)  
 
 ## Code Examples
 Here are some examples of how to use the code within this project:
