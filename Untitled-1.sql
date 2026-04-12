@@ -1,9 +1,0 @@
--- Active: 1762920897279@@localhost@3306@table_fan_db
-CREATE DATABASE IF NOT EXISTS table_fan_db;
-USE table_fan_db;
-
-CREATE TABLE IF NOT EXISTS parts (
-    id INT AUTO_INCREMENT PRIMARY KEY,
-    name VARCHAR(50),
-    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
-);
