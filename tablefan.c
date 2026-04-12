@@ -26,7 +26,7 @@
 #include <GL/glu.h>
 
 #define STB_IMAGE_WRITE_IMPLEMENTATION
-#include "stb_image_write.h"
+#include "std_image_write.h"
 
 // ---------- CONFIG ----------
 const char *OUTDIR = "C:\\Users\\Divya gowda\\OneDrive\\Documents\\project.c\\render_out";
